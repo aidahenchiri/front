@@ -1,0 +1,73 @@
+h1{
+    padding-top: 10%;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+p{
+    margin-left: 20px;
+
+}
+.imgFond img{
+width: 100%;
+
+}
+.coching2{
+  width: 40%;
+  margin: 0px;
+  height: 300px;
+  float: left;
+  position: relative;
+  top: 0;
+  left: 0;  
+  margin-bottom: 0;
+}
+div.gallery {
+    margin: 0px;
+    float: left;
+    height: 300px;
+
+    width: 30%;
+    position: relative;
+    top: 0;
+    left: 0;  
+    margin-bottom: 0;
+
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    height: 100%;
+
+  }
+  div.coching2 img {
+    height: 100%;
+
+  }
+  .col{
+    color: rgb(236, 253, 50);
+  }
+  div.desc {
+        position: absolute;
+        padding-top: 0;
+        left: 40%;
+        color: #ffffff;
+       transform: translate(-50%, -50%);
+    top: 50%;
+      
+  }
+  .descC{
+    position: absolute;
+    padding-top: 0;
+    left: 15%;
+    color: #ffffff;
+   transform: translate(-50%, -50%);
+top: 50%;
+  
+}
+
+
+  h5{color: black;}

@@ -1,0 +1,18 @@
+.colne{
+   background-color: rgb(235, 11, 11); 
+}
+.img_nav{
+   width: 70px;
+}
+.btns{
+   padding: 0.5rem 2rem;
+   outline: none;
+   border: none;
+   font-size: 1rem;
+   color: #ffffff;
+   background-color:#f9ac54;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: 0.3s;
+   margin-left: 10px;
+ }
